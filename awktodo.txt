@@ -1,0 +1,1 @@
+make transition between back button and mode-selection pixel-perfect
