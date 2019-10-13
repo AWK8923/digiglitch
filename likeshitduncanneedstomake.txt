@@ -1,0 +1,10 @@
+button
+cursortrail
+cursorsmoke
+offset wizard (VHS tracking)
+play-warningarrow (make too big and glitched all over screen)
+hit100k
+hit300g
+hit300k
+comboburst sounds
+fonts config
