@@ -1,12 +1,8 @@
 button
-cursortrail
-cursorsmoke
 offset wizard (VHS tracking)
-hit100k
-hit300g
-hit300k
 comboburst sounds
 fonts config
 hitcircleoverlay
 followpoints
- spins per minute
+spins per minute
+spinner animation
